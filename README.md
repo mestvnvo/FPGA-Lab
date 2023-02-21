@@ -5,6 +5,8 @@ https://www.youtube.com/@mestvnvo
 
 **Board:** Digilent Nexys A7-100T
 
+**Board Reference:** https://digilent.com/reference/programmable-logic/nexys-a7/reference-manual
+
 **Part Number:** xc7a100tcsg324-1
 
 **IDE:** Xilinx's Vivado Design Suite
