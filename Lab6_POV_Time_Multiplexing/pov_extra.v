@@ -85,7 +85,7 @@ begin
         if (counter5Hz == 10_000_000)
         begin
             out5Hz=~out5Hz;
-            counter2sec =0;
+            counter5Hz =0;
         end
         if (counter400Hz == 125_000)
         begin
